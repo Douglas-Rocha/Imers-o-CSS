@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://www.correiodopovo.com.br/image/policy:1.320984:1550511633/image/,aro%C3%A7iz.jpg?f=3x2&$p$f=3ab3f85&w=1136&$w=ec52ab9"); 
+     background-size: auto 100vh;
+     font-family: Times New Roman;
+     height: 100vh;
+   }
+   
+   .menu {
+     background-color: white; 
+   }
+   
+   a {
+     color: green;
+     text-decoration: none;
+   }
+   
+   a:hover {
+     text-decoration: underline;  
+   }
+   
+   .menu ul {
+     display: flex;
+     justify-content: space-around;
+   }
+   
+   .menu li {
+     list-style: none;
+   }
+   
+   .site-subtitle,
+   .site-title {
+     color: whitesmoke;
+     text-align: center;
+   }
+   
+   .site-subtitle {
+     font-style: italic;
+   }
